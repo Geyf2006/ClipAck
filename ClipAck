@@ -1,0 +1,9 @@
+ClipAck/
+├─ README.md
+├─ ClipAck.cs
+├─ ClipAck.ico
+├─ build.bat
+├─ .gitignore
+├─ preview.png
+└─ release/
+   └─ ClipAck.exe
